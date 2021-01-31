@@ -8,4 +8,4 @@ opencv-python
 ## 运行命令
 ``` python coloring.py China.jpg```
 ## 运行效果
-![image](https://github.com/GuanyunFeng/Chinese_map_coloring/blob/main/res.gif)
+![image](https://github.com/GuanyunFeng/Chinese_map_coloring/blob/main/coloring.gif)
